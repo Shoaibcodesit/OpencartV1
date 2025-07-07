@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Main Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Linux-chrome(failed)">
+    <parameter name="os" value="linux"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testcases.TS_002_LoginFunctionality">
+        <methods>
+          <include name="teardown"/>
+          <include name="verify_login"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testcases.TS_002_LoginFunctionality -->
+      <class name="testcases.TS_RF_001_RegisterFunctionality">
+        <methods>
+          <include name="teardown"/>
+          <include name="verify_register_functionality"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testcases.TS_RF_001_RegisterFunctionality -->
+    </classes>
+  </test> <!-- Linux-chrome(failed) -->
+</suite> <!-- Failed suite [Main Suite] -->

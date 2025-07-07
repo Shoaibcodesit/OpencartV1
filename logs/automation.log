@@ -1,0 +1,152 @@
+12:31:23.970 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:31:24.525 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:31:28.079 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+12:31:28.668 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+12:43:55.907 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:43:56.737 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:44:50.098 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:44:50.797 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:44:54.560 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+12:44:55.251 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+12:49:27.122 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:49:27.750 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:49:35.012 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:49:35.684 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:49:47.657 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:49:48.548 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:51:08.136 [TestNG-tests-1] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:51:08.305 [TestNG-tests-2] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:51:09.943 [TestNG-tests-2] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:51:10.050 [TestNG-tests-1] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:51:15.516 [TestNG-tests-3] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:51:16.304 [TestNG-tests-2] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+12:51:17.233 [TestNG-tests-2] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+12:51:44.981 [TestNG-tests-2] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:51:45.114 [TestNG-tests-1] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:51:46.560 [TestNG-tests-2] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:51:46.588 [TestNG-tests-1] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:51:51.533 [TestNG-tests-3] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+12:51:52.482 [TestNG-tests-3] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+12:51:53.323 [TestNG-tests-2] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+12:51:54.263 [TestNG-tests-2] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+12:51:58.320 [TestNG-tests-3] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+12:51:58.811 [TestNG-tests-3] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+23:44:00.231 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:44:01.834 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:44:31.934 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:44:32.911 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:44:38.611 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+23:44:40.323 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+23:53:04.506 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:53:05.157 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:54:24.178 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:54:24.734 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:55:05.066 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:55:05.677 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:55:47.573 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:55:48.084 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:55:53.658 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+23:55:54.298 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+23:15:20.341 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:15:37.040 [main] INFO  testcases.TS_002_Login_Funtionality.verify_login(TS_002_Login_Funtionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+23:16:33.349 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:16:34.521 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:16:40.169 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+23:16:41.961 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+23:16:44.853 [main] INFO  testcases.TS_002_Login_Funtionality.verify_login(TS_002_Login_Funtionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+23:18:06.362 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+21:32:10.992 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:32:22.048 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:32:33.104 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:56)oggger - *************  Login DDT completed   ****************
+21:32:33.113 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:32:44.166 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:56)oggger - *************  Login DDT completed   ****************
+21:35:31.021 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:35:33.584 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:35:43.712 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:38:06.996 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:38:09.733 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:38:19.892 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:45:17.497 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:45:20.114 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:57)oggger - *************  Login DDT completed   ****************
+21:45:20.125 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:45:31.037 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:57)oggger - *************  Login DDT completed   ****************
+21:45:31.044 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:17)oggger - ************  Starting the logint DDT   ******************
+21:45:42.131 [main] INFO  testcases.TS_002_LoginDDT.verify_loginDDT(TS_002_LoginDDT.java:57)oggger - *************  Login DDT completed   ****************
+18:41:54.819 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+18:41:56.272 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+18:42:01.947 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+18:42:03.544 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+18:42:06.784 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+18:45:13.942 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+18:45:14.859 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+18:45:20.578 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+18:45:21.769 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+18:45:24.800 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+18:49:21.045 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+18:49:21.894 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+18:49:27.679 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+18:49:28.859 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+18:49:32.054 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+22:40:51.535 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+22:40:52.529 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+22:40:58.354 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+22:40:59.652 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+22:41:02.809 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+22:45:24.571 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+22:45:25.444 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+22:45:31.101 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+22:45:32.312 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+22:45:35.023 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+23:17:50.464 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:17:51.293 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:17:56.983 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+23:17:58.298 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+23:18:00.948 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+23:23:26.839 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:23:27.711 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:23:33.534 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+23:23:34.947 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+23:23:37.694 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+23:38:25.121 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:38:26.543 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:38:32.479 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+23:38:34.070 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+23:38:36.823 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+23:41:04.639 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:41:05.683 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:41:15.836 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+23:41:59.262 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+23:42:00.232 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+23:42:06.081 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+23:42:07.195 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+23:42:09.497 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+11:37:27.714 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+18:16:24.026 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+18:16:35.970 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+18:18:45.481 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+18:18:46.512 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+18:18:52.006 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+18:18:53.004 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+18:18:55.278 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+18:25:46.326 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+18:25:58.175 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+18:29:26.289 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+18:29:38.777 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+20:21:42.739 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+20:22:02.205 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+20:26:20.310 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+20:26:32.856 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+20:28:21.159 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+20:28:23.814 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+22:27:08.343 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+22:27:09.534 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+22:27:15.289 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+22:27:16.736 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+22:27:20.370 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+22:50:43.307 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+22:50:44.770 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:21)oggger - ***** ENTERS THE DETAILS OF THE CUSTOMER *****
+22:50:50.874 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:30)oggger - ***** DETAILS ENTERED IN THE FORM *****
+22:50:52.372 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:34)oggger - **** ACCOUNT CREATED SUCCESSFULLY, ENDS THE EXECUTION OF THE TEST CASE *****
+22:50:55.486 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
+22:51:40.273 [main] INFO  testcases.TS_RF_001_RegisterFunctionality.verify_register_functionality(TS_RF_001_RegisterFunctionality.java:16)oggger - ***** STARTS THE EXECUTION OF THE TEST CASE *****
+22:51:53.574 [main] INFO  testcases.TS_002_LoginFunctionality.verify_login(TS_002_LoginFunctionality.java:14)oggger - ******     STARTING TS_002_LOGIN TEST     *******
