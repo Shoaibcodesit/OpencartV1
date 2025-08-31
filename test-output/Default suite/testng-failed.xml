@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.TS_RF_001_RegisterFunctionality">
+      <class name="testcases.TS_004_ForgotPassword">
         <methods>
           <include name="teardown"/>
-          <include name="verify_register_functionality"/>
+          <include name="forgot_password"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testcases.TS_RF_001_RegisterFunctionality -->
+      </class> <!-- testcases.TS_004_ForgotPassword -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

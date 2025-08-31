@@ -11,9 +11,16 @@
    <parameter name="os" value="windows"></parameter>
    <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="testcases.TS_RF_001_RegisterFunctionality"/>  
-      <class name="testcases.TS_002_LoginFunctionality"/>  
+      <!-- <class name="testcases.TS_RF_001_RegisterFunctionality"/>  -->
+    <!-- <class name="testcases.TS_002_LoginFunctionality"/> --> 
       <!--   <class name="testcases.TS_002_LoginDDT"/>  -->
-    </classes>
+      <!--<class name="testcases.TS_003_LogoutFunctionality"/>-->
+      <class name="testcases.TS_004_ForgotPassword">
+			<methods>
+			<include name="forgot_password_validEmail"></include>
+			<!--<include name="forgot_password_invalidEmail"></include> -->
+			</methods>    
+	  </class>	
+	</classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

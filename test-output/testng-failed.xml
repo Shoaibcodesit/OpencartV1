@@ -8,20 +8,13 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testcases.TS_RF_001_RegisterFunctionality">
+      <class name="testcases.TS_004_ForgotPassword">
         <methods>
+          <include name="forgot_password_validEmail"/>
           <include name="teardown"/>
-          <include name="verify_register_functionality"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testcases.TS_RF_001_RegisterFunctionality -->
-      <class name="testcases.TS_002_LoginFunctionality">
-        <methods>
-          <include name="teardown"/>
-          <include name="verify_login"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testcases.TS_002_LoginFunctionality -->
+      </class> <!-- testcases.TS_004_ForgotPassword -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Main Suite] -->
